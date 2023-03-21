@@ -1,0 +1,12 @@
+D:\CDAC\Material\ASP.Net\Practice\EngineerDeskAPI\Database Project\obj\Debug\net6.0\Database Project.csproj.AssemblyReference.cache
+D:\CDAC\Material\ASP.Net\Practice\EngineerDeskAPI\Database Project\obj\Debug\net6.0\Database Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\Material\ASP.Net\Practice\EngineerDeskAPI\Database Project\obj\Debug\net6.0\Database Project.AssemblyInfoInputs.cache
+D:\CDAC\Material\ASP.Net\Practice\EngineerDeskAPI\Database Project\obj\Debug\net6.0\Database Project.AssemblyInfo.cs
+D:\CDAC\Material\ASP.Net\Practice\EngineerDeskAPI\Database Project\obj\Debug\net6.0\Database Project.csproj.CoreCompileInputs.cache
+D:\CDAC\Material\ASP.Net\Practice\EngineerDeskAPI\Database Project\bin\Debug\net6.0\Database Project.deps.json
+D:\CDAC\Material\ASP.Net\Practice\EngineerDeskAPI\Database Project\bin\Debug\net6.0\Database Project.dll
+D:\CDAC\Material\ASP.Net\Practice\EngineerDeskAPI\Database Project\bin\Debug\net6.0\Database Project.pdb
+D:\CDAC\Material\ASP.Net\Practice\EngineerDeskAPI\Database Project\obj\Debug\net6.0\Database Project.dll
+D:\CDAC\Material\ASP.Net\Practice\EngineerDeskAPI\Database Project\obj\Debug\net6.0\refint\Database Project.dll
+D:\CDAC\Material\ASP.Net\Practice\EngineerDeskAPI\Database Project\obj\Debug\net6.0\Database Project.pdb
+D:\CDAC\Material\ASP.Net\Practice\EngineerDeskAPI\Database Project\obj\Debug\net6.0\ref\Database Project.dll
